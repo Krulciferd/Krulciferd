@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF5ZnF3bmxtZDY0eWxzYjhlb2dpcHV5Znd6Y3c4YTFiZHI1bnB4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" alt="GIF sobre desarrollo" width="100%"/>
   <header>
     <h1>👋 ¡Hola! Soy Johan Martinez</h1>
     <p>¡Bienvenido a mi portafolio de GitHub! 🚀</p>
@@ -14,8 +15,6 @@
 •	Diseño y gestión de bases de datos SQL para aplicaciones eficientes y escalables.<br>
 •	Creación de interfaces web con HTML y CSS , priorizando la usabilidad y la estética.<br>
 •	Diseño gráfico con Illustrator para aportar identidad visual a los proyectos.<br><br>
-💡 ¿Qué me defino?
-Soy analítico , proactivo y comprometido , siempre enfocado en el aprendizaje continuo y en la mejora constante de mis habilidades técnicas y creativas. Me motiva enfrentar nuevos retos y trabajar en entornos dinámicos donde pueda aportar y seguir creciendo profesionalmente.
 </p>
   </header>
 
