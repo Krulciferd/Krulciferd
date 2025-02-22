@@ -49,7 +49,6 @@
 
   <footer>
     <p>¡Gracias por visitar mi portafolio! 🚀</p>
-    <p>¿Quieres crear un portafolio impresionante como este? Visita <a href="https://gptonline.ai/es/" target="_blank">gptonline.ai/es/</a> 😉</p>
   </footer>
 </body>
 </html>
