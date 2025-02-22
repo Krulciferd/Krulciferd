@@ -41,7 +41,7 @@
   <section>
     <h2>📫 ¡Conectemos!</h2>
     <div class="contact">
-      <a href="mailto:tu.email@example.com">✉️ Email: tu.email@example.com</a>
+      <a href="johanmartinez1@gmai.com">✉️ Email: Johan Martinez</a>
       <a href="https://www.linkedin.com/in/johan-martinez-developer/" target="_blank">💼 LinkedIn: Johan Estiven Martinez Rodriguez</a>
       <a href="https://johan-martinez-r.itch.io/" target="_blank">🎮 Itch.io: Johan Martinez R</a>
     </div>
