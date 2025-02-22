@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portafolio | [Tu Nombre]</title>
+  <title>Portafolio | JohanMR</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -46,7 +46,7 @@
 </head>
 <body>
   <header>
-    <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
+    <h1>👋 ¡Hola! Soy Johan Martinez</h1>
     <p>¡Bienvenido a mi portafolio de GitHub! 🚀</p>
   </header>
 
@@ -75,8 +75,8 @@
     <h2>📫 ¡Conectemos!</h2>
     <div class="contact">
       <a href="mailto:tu.email@example.com">✉️ Email: tu.email@example.com</a>
-      <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">💼 LinkedIn: TuPerfilLinkedIn</a>
-      <a href="https://twitter.com/TuUsuarioTwitter" target="_blank">🐦 Twitter: @TuUsuarioTwitter</a>
+      <a href="https://www.linkedin.com/in/johan-martinez-developer/" target="_blank">💼 LinkedIn: Johan Estiven Martinez Rodriguez</a>
+      <a href="https://johan-martinez-r.itch.io/" target="_blank">🎮 Itch.io: Johan Martinez R</a>
     </div>
   </section>
 
