@@ -10,7 +10,6 @@
     <h1>👋 ¡Hola! Soy Johan Martinez</h1>
     <p>¡Bienvenido a mi portafolio de GitHub! 🚀</p>
     <p>Soy estudiante de Ingeniería de Sistemas con formación técnica en bases de datos y una gran pasión por el desarrollo de videojuegos. Cuento con experiencia en programación, gestión de bases de datos, complementadas con habilidades en Unity, C# y diseño con Illustrator.<br><br>
-🛠️Habilidades destacadas: <br>
 •	Desarrollo de videojuegos en Unity utilizando C# para crear experiencias inmersivas.<br>
 •	Diseño y gestión de bases de datos SQL para aplicaciones eficientes y escalables.<br>
 •	Creación de interfaces web con HTML y CSS , priorizando la usabilidad y la estética.<br>
