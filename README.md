@@ -3,46 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portafolio | JohanMR</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    header {
-      text-align: center;
-      padding: 20px 0;
-    }
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-    }
-    h2 {
-      font-size: 1.8rem;
-      margin-top: 2rem;
-    }
-    .badges img {
-      margin: 5px;
-    }
-    .projects li {
-      margin: 10px 0;
-    }
-    .contact a {
-      display: block;
-      margin: 5px 0;
-      text-decoration: none;
-      color: #0073e6;
-    }
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      font-size: 0.9rem;
-      color: #777;
-    }
-  </style>
 </head>
 <body>
   <header>
