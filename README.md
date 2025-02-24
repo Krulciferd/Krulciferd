@@ -7,14 +7,14 @@
 <body>
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnF5ZnF3bmxtZDY0eWxzYjhlb2dpcHV5Znd6Y3c4YTFiZHI1bnB4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0fz5uNPHnoVHLEhAW2/giphy.gif" alt="GIF sobre desarrollo" width="100%"/>
   <header>
-    <h1>👋 ¡Hola! Soy Johan Martinez</h1>
+    <h1>¡Hola! Soy Johan Martinez</h1>
     <p>¡Bienvenido a mi portafolio de GitHub! 🚀</p>
     <p>Soy estudiante de Ingeniería de Sistemas con formación técnica en bases de datos y una gran pasión por el desarrollo de videojuegos. Cuento con experiencia en programación, gestión de bases de datos, complementadas con habilidades en Unity, C# y diseño con Illustrator.<br><br>
 </p>
   </header>
 
   <section>
-    <h2>🚀 Tecnologías y herramientas</h2>
+    <h2>Tecnologías y herramientas</h2>
     <div class="badges">
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
