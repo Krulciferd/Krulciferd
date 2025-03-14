@@ -25,16 +25,6 @@
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
     </div>
   </section>
-
-  <section>
-    <h2>📂 Proyectos destacados</h2>
-    <ul class="projects">
-      <li>🎮 <a href="#">Juego en Unity</a> – Descripción breve del proyecto.</li>
-      <li>💻 <a href="#">Sitio Web en HTML/CSS</a> – Descripción breve del proyecto.</li>
-      <li>🗄️ <a href="#">Gestión de Bases de Datos</a> – Descripción breve del proyecto.</li>
-    </ul>
-  </section>
-
   <section>
     <h2>📫 ¡Conectemos!</h2>
     <div class="contact">
